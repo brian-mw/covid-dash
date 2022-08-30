@@ -2,10 +2,8 @@
 
 ## For Developers
 To start the project follow the below common steps:
-1. `git clone https://github.com/sarthakpranesh/Covid19.git`
-2. `cd Covid19`
-3. `yarn install`
-4. `yarn start` - leave metro bundler running in another terminal
+1. `yarn install`
+2. `yarn start` - leave metro bundler running in another terminal
 
 For Android:
 * `yarn android` - this will start your android app
